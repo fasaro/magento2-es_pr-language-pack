@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento 2 Spanish (Puerto Rico) language pack
+ *
+ * @category   Language
+ * @package    es_PR
+ * @author     fasaro
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_PR</code>
+    <vendor>fasaro</vendor>
+    <package>es_pr</package>
+</language>
